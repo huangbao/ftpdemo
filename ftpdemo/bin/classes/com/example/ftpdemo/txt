@@ -1,0 +1,10 @@
+12-16 17:28:45.410: D/Mylog(29642): Received line from client: USER anonymous
+12-16 17:28:45.435: D/Mylog(29642): Received line from client: PASS chrome@example.com
+12-16 17:28:45.450: D/Mylog(29642): Received line from client: SYST
+12-16 17:28:45.460: D/Mylog(29642): Received line from client: PWD
+12-16 17:28:45.475: D/Mylog(29642): Received line from client: TYPE I
+12-16 17:28:45.545: D/Mylog(29642): Received line from client: SIZE /
+12-16 17:28:45.555: D/Mylog(29642): Received line from client: CWD /
+12-16 17:28:45.580: D/Mylog(29642): Received line from client: PASV
+12-16 17:28:45.600: D/Mylog(29642): Received line from client: LIST -l
+12-16 17:28:45.925: D/Mylog(29642): Received line from client: QUIT
